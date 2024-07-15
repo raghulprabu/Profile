@@ -1,0 +1,89 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/Front-end.jpg",
+      "title": "Front-End",
+      "description": " I  Proficient in Front-End Development in Web Application , Mobile Application And Ui/Ux to build responsive and user-friendly websites Experienced in using modern frameworks  to develop dynamic web applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/Web Application.jpg",
+      "title": "Web Application ",
+      "description": " I have a Knowleadge about Web-development in HTML5 , CSS3 , BOOTSTRAP5 , TAIIWIND , JAVASCRIPT , JQUERY , JSON , AJAX , REACT JS AND FIREBASE Knowledgeable about this  "
+    },
+    {
+      "id": "3",
+      "src": "./img/Android development.jpg",
+      "title": "Mobile Application",
+      "description": "I interest in mobile developer and mention your experience in developing mobile applications  skills  relevant to mobile development in REACT NATIVE and FIREBASE Using platform in Android Studio"
+    },
+    {
+      "id": "4",
+      "src": "./img/uiux.jpg",
+      "title": "UI/UX",
+      "description": " I Like to  Feel Creativity and Approach Designing in Ui/Ux design skills and expertise User experience design methodologies,Prototyping and wireframing,Interaction design,Visual design and branding "
+    }
+  ],
+"portfolio": [
+  {
+    "id": "1",
+    "src": "./img/Expense Mangaement.png",
+    "title": "Expense Mangaement",
+    "description": " The part of a Website that the user interaction directly termed as Front-end . An expanse management System can help business track categerize and analyze cost saving and ensure cash flow.",
+    "link": "View In Website",
+    "file_link": "https://github.com/raghulprabu"
+  },
+  {
+    "id": "2",
+    "src": "./img/App Dashboard.jpg",
+    "title": "App Dashboard",
+    "description": "The part of a Mobile Application that the user interaction directly termed as Front-end . An expanse management System can help business track categerize and analyze cost saving and ensure cash flow.",
+    "link": "View In Website",
+    "file_link": "https://github.com/raghulprabu"
+  },
+  {
+    "id": "3",
+    "src": "./img/Crop Production.jpg",
+    "title": "Crop Production",
+    "description": "Designed UX for the given problem statement within the given time for Admin, Delivery, User side architecture(Submitted the full prototype in siaz portal). Presented Procedure For Development (UI).",
+    "link": "View In Behance",
+    "file_link": "https://github.com/raghulprabu"
+  }
+],
+"testimonial": [
+  {
+    "id": "1",
+    "count": "5",
+    "src": "./img/img1.jpg",
+    "description": "The part of a website that the user interaction directly termed as front-end .it also refered to as the my task reviewer as the application to good comment. ",
+    "author_name": "Intenet",
+    "author_designation": "Using Firebase"
+  },
+  {
+    "id": "2",
+    "count": "5",
+    "src": "./img/img 2.jpg",
+    "description": "The part of a mobile Application that the user interaction directly termed as front-end .it also refered to as the my task reviewer as the application to good comment.",
+    "author_name": "Google PlayStore",
+    "author_designation": "MyExpanses"
+  },
+  {
+    "id": "3",
+    "count": "5",
+    "src": "./img/img 3.jpg",
+    "description": "Introduce yourself as a UI/UX designer dedicated to creating visually stunning and user-friendly digital products.Proficient in conducting user .",
+    "author_name": "Behance",
+    "author_designation": "crops production"
+  }
+],
+"ContactMe":[
+{
+  "rules": {
+    ".read": true,
+    ".write": true
+  }
+}
+]
+}
+
